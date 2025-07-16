@@ -87,3 +87,5 @@ Preparing it for re-use
 Task 3 gave me a clear understanding of how data can be moved between different environments. Even though I didn’t actually use MySQL or PostgreSQL, the simulation using SELECT INTO demonstrated the key migration steps. This knowledge is applicable to real-life roles in data engineering, system integration, and database administration, where clean and consistent migration of data is often critical to success.
 
 OUTPUTS
+
+"https://github.com/user-attachments/assets/463b0d5d-690f-41ff-9917-ac4a12174051" 
