@@ -1,0 +1,8 @@
+-- TASK 3: MIGRATION (SIMULATION)
+----------------------------
+
+-- Export simulation
+SELECT * INTO Exported_Employees FROM Employees
+
+-- In PostgreSQL: use COPY to import this .csv or similar output.
+-- Use SELECT COUNT(*) to validate after import.
